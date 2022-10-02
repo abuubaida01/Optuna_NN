@@ -1,0 +1,2 @@
+- This repository is mainly made for the save of my work on Optuna / Hyperparameter optimization.
+- Both projects contain the (shallow) coding practice to get better on the optuna library. 
